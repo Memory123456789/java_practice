@@ -1,0 +1,7 @@
+#creating java env
+{
+	"image": "mcr.microsoft.com/devcontainers/universal:2",
+	"features": {
+		"ghcr.io/roul/devcontainer-features/mise-java:1": {}
+	}
+}
